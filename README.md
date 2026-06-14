@@ -3,6 +3,9 @@
 ## Project Overview
 This project performs real-time object detection using YOLOv8 and OpenCV through a webcam feed.
 
+## Streamlit URL
+https://yolo-ai-dashboard.streamlit.app/
+
 ## Features
 - Real-time object detection
 - Webcam integration
